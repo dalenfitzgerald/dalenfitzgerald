@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dalenfitzgerald
-- 👀 I’m interested in video game/front end development
+- 👀 I’m interested in front end development & video game development
 - 🌱 I’m currently learning a multitude of skills (javascript, hmtl, css and c#)
 - 💞️ I’m looking to collaborate on anything to better myself
 - 📫 How to reach me dalenfitzgerald@gmail.com.
